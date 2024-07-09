@@ -8,6 +8,4 @@ iFront end logic has been added
 // additiona Front end logic updated
 
 
-/// again added front end logi
-
-new line added to test git revert c
+/// again added front end logic
